@@ -1,0 +1,8 @@
+Hierarchical control matlab/Simulink
+1_Continuous-flow_reactor.pdf	
+2_OilRefinery.pdf	Hierarchical 
+3_DirectMethodOfCoordination.pdf
+4_PriceMethodOfCoordination.pdf	
+5_DynamicProgramming.pdf
+6_Sensitivity_of_static_systems.pdf	
+7_Identification_of_complex_systems.pdf
